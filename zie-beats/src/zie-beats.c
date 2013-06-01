@@ -7,7 +7,7 @@
 PBL_APP_INFO(MY_UUID,
              "zieBeats", "zieya-labo", 1, 0, INVALID_RESOURCE, APP_INFO_WATCH_FACE);
  
-Window window;
+Window s_window;
 TextLayer s_text;
 
 
